@@ -1,0 +1,106 @@
+aid: abios-gaming
+url: https://raw.githubusercontent.com/api-evangelist/abios-gaming/refs/heads/main/apis.yml
+name: Abios (Sportradar)
+kind: company
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Esports
+  - Sports Data
+  - Odds
+  - Widgets
+  - Live Data
+  - WebSocket
+  - REST
+  - Sportradar
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+description: >-
+  Abios, a Sportradar company headquartered in Stockholm, provides
+  enterprise-scale esports data, odds, and engagement products for sportsbooks
+  and media platforms. The Abios Atlas API delivers REST and WebSocket access
+  to fixtures, live statistics, odds, and player props across 60,000+ yearly
+  matches and 50 billion+ data points spanning major esports titles plus
+  traditional sports coverage via Sportradar integration.
+apis:
+  - aid: abios-gaming:atlas-api
+    name: Abios Atlas API
+    description: >-
+      Atlas is the Abios REST and WebSocket data API delivering fixtures,
+      live match state, historical stats, players, teams, tournaments, and
+      series across covered esports titles. Designed as a developer-first
+      integration surface for sportsbooks and media operators.
+    humanURL: https://abiosgaming.com/docs
+    baseURL: https://atlas.abiosgaming.com
+    tags:
+      - Esports
+      - Fixtures
+      - Live Data
+      - REST
+      - WebSocket
+    properties:
+      - type: Documentation
+        url: https://abiosgaming.com/docs
+      - type: APIReference
+        url: https://abiosgaming.com/api-reference/atlas
+      - type: GitHub
+        url: https://github.com/AbiosGaming
+  - aid: abios-gaming:odds-api
+    name: Abios Esports Odds
+    description: >-
+      Pre-match and live esports odds feed including player props and live
+      betting markets, packaged for sportsbook integration alongside the
+      Atlas data feed.
+    humanURL: https://abiosgaming.com/esports-odds
+    baseURL: https://atlas.abiosgaming.com
+    tags:
+      - Odds
+      - Player Props
+      - Live Betting
+      - Sportsbook
+    properties:
+      - type: Documentation
+        url: https://abiosgaming.com/docs
+      - type: ProductPage
+        url: https://abiosgaming.com/esports-odds
+  - aid: abios-gaming:widgets-api
+    name: Abios Esports Widgets
+    description: >-
+      Embeddable esports widgets (live scoreboards, event feeds, statistics
+      displays) backed by the Atlas data feed for media and sportsbook
+      front-ends.
+    humanURL: https://abiosgaming.com/esports-widgets
+    baseURL: https://atlas.abiosgaming.com
+    tags:
+      - Widgets
+      - Scoreboards
+      - Embeddable
+      - Live
+    properties:
+      - type: Documentation
+        url: https://abiosgaming.com/docs
+      - type: ProductPage
+        url: https://abiosgaming.com/esports-widgets
+common:
+  - type: Website
+    url: https://abiosgaming.com/
+  - type: Documentation
+    url: https://abiosgaming.com/docs
+  - type: APIReference
+    url: https://abiosgaming.com/api-reference/atlas
+  - type: GitHub
+    url: https://github.com/AbiosGaming
+  - type: Careers
+    url: https://jobs.abiosgaming.com/
+  - type: Parent
+    url: https://sportradar.com/
+    title: Sportradar (parent company)
+  - type: PrivacyPolicy
+    url: https://abiosgaming.com/privacy-policy
+  - type: TermsOfService
+    url: https://abiosgaming.com/terms
+  - type: Contact
+    url: https://abiosgaming.com/contact
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
