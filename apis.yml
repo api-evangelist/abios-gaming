@@ -101,6 +101,8 @@ common:
     url: https://abiosgaming.com/terms
   - type: Contact
     url: https://abiosgaming.com/contact
+  - type: LLMsTxt
+    url: https://jobs.abiosgaming.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
