@@ -101,7 +101,7 @@ common:
     url: https://abiosgaming.com/terms
   - type: Contact
     url: https://abiosgaming.com/contact
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://jobs.abiosgaming.com/llms.txt
 maintainers:
   - FN: Kin Lane
