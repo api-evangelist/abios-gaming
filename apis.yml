@@ -82,6 +82,8 @@ apis:
       - type: ProductPage
         url: https://abiosgaming.com/esports-widgets
 common:
+  - type: DomainSecurity
+    url: security/abios-gaming-domain-security.yml
   - type: Website
     url: https://abiosgaming.com/
   - type: Documentation

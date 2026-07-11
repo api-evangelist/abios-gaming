@@ -1,0 +1,20 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: abiosgaming.com
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Sep 20 12:40:10 2026 GMT
+  hsts: false
+- host: atlas.abiosgaming.com
+  https: true
+  tls_version: TLSv1.2
+  cert_expires: Nov 12 23:59:59 2026 GMT
+  hsts: null
+domains:
+- domain: abiosgaming.com
+  dnssec: true
+  caa: []
+  spf: true
+  dmarc: false
