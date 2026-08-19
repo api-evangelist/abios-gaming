@@ -1,0 +1,20 @@
+# Abios
+
+> Abios is the world leading B2B provider of esports data and statistics. Founded in early 2013 with its roots&nbsp;at the Stockholm School of Economics and Royal Institute of Technology, Abios now works with more than a 100&nbsp;clients from all over the world. The company started out as a calendar and statistics hub for esports where you could follow your favourite teams, players and tournaments. However, since 2016 the company has focused solely on providing and distributing such&nbsp;data to the large number of&nbsp;businesses entering esports. As the demand for more advanced data products grow in all sectors of the&nbsp;esports ecosystem Abios works closely with its clients to shape the future of esports.
+
+Append `.md` to the jobs list or any individual job URL for a markdown version (for example https://jobs.abiosgaming.com/jobs.md).
+
+## Open positions
+
+- [All open positions](https://jobs.abiosgaming.com/jobs): Browse every currently open job. Also available as markdown at https://jobs.abiosgaming.com/jobs.md and as a JSON Feed with embedded JobPosting data at https://jobs.abiosgaming.com/jobs.json.
+
+## Optional
+
+- [People](https://jobs.abiosgaming.com/people): The team behind Abios.
+- [Departments](https://jobs.abiosgaming.com/departments): Our departments.
+- [Locations](https://jobs.abiosgaming.com/locations): Office locations.
+- [Team stories](https://jobs.abiosgaming.com/stories): Stories from people who work at Abios.
+- [Privacy policy](https://jobs.abiosgaming.com/privacy-policy): How candidate data is handled.
+- [Cookie policy](https://jobs.abiosgaming.com/cookie-policy): Cookie usage and consent.
+- [Data privacy](https://jobs.abiosgaming.com/data-privacy): Data privacy controls and rights.
+- [API catalog](https://jobs.abiosgaming.com/.well-known/api-catalog): Machine-readable discovery document for available APIs.
