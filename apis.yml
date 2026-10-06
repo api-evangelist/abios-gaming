@@ -36,7 +36,7 @@ tags:
   - REST
   - Sportradar
 created: '2026-05-23'
-modified: '2026-05-23'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 description: >-
   Abios, a Sportradar company headquartered in Stockholm, provides
@@ -105,6 +105,10 @@ apis:
       - type: ProductPage
         url: https://abiosgaming.com/esports-widgets
 common:
+  - url: https://abiosgaming.com/press
+    type: Blog
+  - url: https://abiosgaming.com/press/feed/
+    type: BlogRSS
   - type: DomainSecurity
     url: security/abios-gaming-domain-security.yml
   - type: Website
