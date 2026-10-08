@@ -105,6 +105,12 @@ apis:
       - type: ProductPage
         url: https://abiosgaming.com/esports-widgets
 common:
+  - type: Plans
+    url: plans/abios-gaming-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/abios-gaming-rate-limits.yml
+  - type: FinOps
+    url: finops/abios-gaming-finops.yml
   - url: https://abiosgaming.com/press
     type: Blog
   - url: https://abiosgaming.com/press/feed/
